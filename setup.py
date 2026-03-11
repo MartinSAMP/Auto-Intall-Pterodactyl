@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Pterodactyl Auto-Deploy Tool - Optimized Edition
+Pterodactyl Auto Installer
 Copyright (c) 2026 Martin
 Production-ready installer with enterprise-grade security and reliability
 """
